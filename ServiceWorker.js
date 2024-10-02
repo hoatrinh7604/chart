@@ -1,4 +1,4 @@
-const cacheName = "Advertiser-Advertiser-1.0.0";
+const cacheName = "Advertiser-Advertiser-1.0.1";
 const contentToCache = [
     "Build/WebGL.loader.js",
     "Build/WebGL.framework.js.unityweb",

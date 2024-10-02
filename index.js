@@ -93,7 +93,7 @@
     streamingAssetsUrl: "StreamingAssets",
     companyName: "Advertiser",
     productName: "Advertiser",
-    productVersion: "1.0.0",
+    productVersion: "1.0.1",
     showBanner: unityShowBanner,
 	cacheControl: function (url) {
   //return "immutable";
